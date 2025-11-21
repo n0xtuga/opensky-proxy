@@ -1,16 +1,10 @@
 from flask import Flask, jsonify
 import requests
-from dotenv import load_dotenv
 import os
 import math
 import csv
 
-load_dotenv()
-
 app = Flask(__name__)
-
-CLIENT_ID = os.environ["CLIENT_ID"]
-CLIENT_SECRET = os.environ["CLIENT_SECRET"]
 
 LAT = 41.219215
 LON = -8.230035
@@ -18,18 +12,6 @@ LON = -8.230035
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(BASE_DIR, "voos.csv")
 LOG_FILE = os.path.join(BASE_DIR, "logs.txt")  # Caminho absoluto do logs.txt
-
-def get_access_token():
-    url = "https://auth.opensky-network.org/auth/realms/opensky-network/protocol/openid-connect/token"
-    payload = {
-        "grant_type": "client_credentials",
-        "client_id": CLIENT_ID,
-        "client_secret": CLIENT_SECRET
-    }
-    headers = {"Content-Type": "application/x-www-form-urlencoded"}
-    res = requests.post(url, data=payload, headers=headers, timeout=10)
-    res.raise_for_status()
-    return res.json().get("access_token")
 
 def distancia(lat1, lon1, lat2, lon2):
     R = 6371
@@ -51,16 +33,13 @@ def carregar_callsigns_csv():
     return callsigns
 
 def registar_log(callsign):
-    # Criar ficheiro vazio se não existir
     if not os.path.exists(LOG_FILE):
         with open(LOG_FILE, "w", encoding="utf-8") as f:
             pass
 
-    # Ler logs existentes
     with open(LOG_FILE, "r", encoding="utf-8") as f:
         logs_existentes = {line.strip() for line in f}
 
-    # Escrever novo callsign se ainda não estiver
     if callsign not in logs_existentes:
         with open(LOG_FILE, "a", encoding="utf-8") as f:
             f.write(f"{callsign}\n")
@@ -70,20 +49,15 @@ def registar_log(callsign):
 
 @app.route("/aviao")
 def aviao_proximo():
-    try:
-        token = get_access_token()
-    except Exception as e:
-        return jsonify({"erro": "Erro ao obter token", "detalhes": str(e)}), 500
+    delta = 1.2  # área maior para garantir aviões
 
-    headers = {"Authorization": f"Bearer {token}"}
-    delta = 0.2
     url = (
         f"https://opensky-network.org/api/states/all?"
         f"lamin={LAT - delta}&lomin={LON - delta}&lamax={LAT + delta}&lomax={LON + delta}"
     )
 
     try:
-        res = requests.get(url, headers=headers, timeout=10)
+        res = requests.get(url, timeout=10)
         res.raise_for_status()
         data = res.json()
     except Exception as e:
@@ -114,7 +88,6 @@ def aviao_proximo():
 
     origem = destino = airline = modelo = "Desconhecido"
 
-    # Verifica se está no CSV
     if callsign in callsigns_conhecidos:
         with open(CSV_PATH, newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
