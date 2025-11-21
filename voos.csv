@@ -1,0 +1,664 @@
+callsign,origin,destination,airline,model
+FR1262,Porto,London (STN),Ryanair,Boeing 737 MAX 8
+TP1911,Lisboa,Madrid,TAP Air Portugal,Airbus A320
+EZY62YT,Faro,Belfast,easyJet,Airbus A320-214
+RYR7871,Marrakech,London (STN),Ryanair,Boeing 737 MAX 8
+AEA81GJ,Madrid,Porto,Air Europa,Boeing 737-800
+EJU81ZP,Funchal,Porto,easyJet,Airbus A320
+EZY62YT,Faro,Belfast,easyJet,Airbus A320
+UAL261,Madrid,Washington D.C,United Airlines,Boeing 767-424
+TDR337,Zagreb,Ponta Delgada,Trade Air,Airbus A320
+RYR2AA,Faro,London (STN),Ryanair,Boeing 737 MAX 8
+RYR958H,Porto,Dublin,Ryanair,Boeing 737-800
+EXS31F,Faro,Newcastle,Jet2,Boeing 737-800
+RYR902K,Sevilla,Porto,Ryanair,Boeing 737-800
+RYR843X,Faro,Dublin,Ryanair,Boeing 737-800
+THY7VG,Porto,Istambul,Turkish Airlines,Boeing 737 MAX 8
+EXS28YD,Faro,Manchester,Jet2,Airbus A330-200
+AEA1146,Porto,Madrid,Air Europa,Boeing 737-800
+DLH68H,Porto,Munich,Lufthansa,Airbus A320neo
+TAP938,Porto,Genebra,TAP Air Portugal,Airbus A320
+RYR7DD,Cornwall,Faro,Ryanair,Boeing 737 MAX 8
+ACA825,Madrid,Toronto,Air Canada, Airbus A330-300
+EZY39RF,Marrakech,Liverpool,easyJet,Airbus A320
+AAL37,Madrid,Dallas-Fort Worth,American Airlines,Boeing 777-200
+RYR61BV,Porto,Memmingen,Ryanair,Boeing 737-800
+ACA835,Madrid,Montreal,Air Canada,Boeing 787-9 Dreamliner
+EZY45GK,Malaga,Glasgow,easyJet,Airbus A320
+RUK321P,Faro,Manchester,Ryanair,Boeing 737-800
+ANE8234,Porto,Menorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+RYR898T,Porto,Tours,Ryanair,Boeing 737 MAX 8
+AAL749,Madrid,Charlotte,American Airlines,Boeing 777-200
+ANE35AQ,Porto,Madrid,Air Nostrum,Bombardier Regional Jet CRJ-1000
+LGL3783,Luxembourg,Porto,Luxair,Boeing 737-700
+EJU67VX,Lyon,Porto,easyJet,Airbus A320
+RYR5NJ,Palma de Mallorca,Porto,Ryanair,Boeing 737 MAX 8
+RYR2YY,Shannon,Faro,Ryanair,Boeing 737 MAX 8
+AAL741,Madrid,Philadelphia,American Airlines,Boeing 787-8
+SWR7H,Genebra,Porto,Swiss,Airbus A220-300
+RYR87ZJ,Dublin,Arrecife,Ryanair,Boeing 737 MAX 8
+RYR404A,Porto,Barcelona,Ryanair,Boeing 737-800
+KLM61N,Amsterdam,Lisboa,KLM,Airbus A321neo
+EJU18EF,Prague,Porto,easyJet,Airbus A320
+OCN1XL,Frankfurt,Funchal,Discover,Airbus A320
+RYR8BA,Porto,Palma de Mallorca,Ryanair,Boeing 737 MAX 8
+RYR774V,Malaga,Cork,Ryanair,Boeing 737 MAX 8
+IBE0347,Madrid,Boston,Iberia, Airbus A321neo
+RYR774V,Malaga,Cork,Ryanair,Boeing 737-800
+SWR93Q,Porto,Genebra,Swiss,Airbus A220-300
+RYR17DG,Pisa,Porto,Ryanair,Boeing 737-800
+RYR828R,Porto,Vienna,Ryanair,Airbus A320
+AXY305T,Zurich,Porto,Air X Charter,Embraer ERJ-190
+RYR37LU,Porto,Madrid,Ryanair,Boeing 737-800
+RYR652,Dublin,Lisboa,Ryanair,Boeing 737 MAX 8
+TAP31DB,Berlin,Lisboa,TAP Air Portugal,Airbus A320
+RYR2981,Tenerife,Edinburgh,Ryanair,Boeing 737-800
+RYR1PH,Faro,Knock,Ryanair,Boeing 737 MAX 8
+EDW283,Terceira,Zurich,Edelweiss Air AG,Airbus A320
+RZO229,Ponta Delgada,Boston,Sata Internacional,Airbus A321neo
+TVF34SP,Porto,Paris Orly,Transavia,Boeing 737-800
+RYR3252,Porto,Trapani,Ryanair,Boeing 737-800
+AAL120,Philadelphia,Doha,American Airlines,Boeing 787-9 Dreamliner
+AAL125,Madrid,Chicago,American Airlines,Boeing 787-8
+AAL41,Barcelona,Chicago,American Airlines,Boeing 787-8
+AAL67,Barcelona,New York,American Airlines,Boeing 777-200
+AEA093,Madrid,New York,Air Europa,Boeing 787-8
+AEA24LA,Porto,Madrid,Air Europa,Boeing 787-800
+AEA29FR,Porto,Madrid,Air Europa,Boeing 787-800
+AEA45VP,Madrid,Porto,Air Europa,Boeing 787-800
+AEE4RO,Athens,Porto,Aegean Airlines,Airbus A320
+AEE5RT,Porto,Athens,Aegean Airlines,Airbus A320
+AFR17ZQ,Paris CDG,Porto,Air France,Airbus A220-300
+AFR26RP,Paris CDG,Porto,Air France,Embraer ERJ-190
+AFR84MQ,Paris CDG,Porto,Air France,Embraer ERJ-190
+AFR97SB,Paris CDG,Porto,Air France,Airbus A220-300
+AMX001,Mexico,Madrid,AeroMéxico,Boeing 787-9 Dreamliner
+ANE22NP,Porto,Madrid,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE31WP,Madrid,Porto,Air Nostrum,Airbus A321
+ANE3254,Palma de Mallorca,Porto,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE47WP,Porto,Madrid,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE73JA,Porto,Madrid,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE77EM,Madrid,Porto,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE8115,Alicante,Porto,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE8116,Porto,Alicante,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE8236,Porto,Reus,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE8253,Porto,Palma de Mallorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE8261,Porto,Menorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE84ME,Madrid,Porto,Air Nostrum,Airbus A321
+AUA445,Vienna,Porto,Air Baltic,Airbus A220-300
+BEL1MG,Brussels,Porto,Brussels Airlines,Airbus A320neo
+BEL4KX,Brussels,Porto,Brussels Airlines,Airbus A320neo
+DAH2700,Algiers,Montreal,Air Algerie,Airbus A330-200
+DAL109,Madrid,Atlanta,Delta Air Lines,Airbus A330-300
+DLH03U,Munich,Porto,Lufthansa,Airbus A321
+DLH24M,Frankfurt,Porto,Lufthansa,Airbus A321
+DLH32X,Frankfurt,Porto,Lufthansa,Airbus A321neo
+DLH44T,Frankfurt,Porto,Lufthansa,Airbus A321
+DLH61H,Porto,Munich,Lufthansa,Airbus A321
+DLH62Y,Porto,Frankfurt,Lufthansa,Airbus A321neo
+DLH81X,Munich,Porto,Lufthansa,Airbus A320
+EDW25G,Ponta Delgada,Zurich,Edelweiss Air AG,Airbus A320
+EDW27N,Zurich,Ponta Delgada,Edelweiss Air AG,Airbus A320
+EFW1FG,Faro,London LGW,BA Euroflyer,Airbus A320
+EFW69H,London LGW,Porto,BA Euroflyer,Airbus A320
+EFW75H,Faro,London LGW,BA Euroflyer,Airbus A321
+EFW8MN,London LGW,Porto,BA Euroflyer,Airbus A320
+EIN496,Dublin,Faro,Aer Lingus,Airbus A320
+EIN497,Faro,Dublin,Aer Lingus,Airbus A320
+EIN49D,Faro,Dublin,Aer Lingus,Airbus A320
+EIN49J,Dublin,Faro,Aer Lingus,Airbus A320
+EIN49W,Dublin,Faro,Aer Lingus,Airbus A330-300
+EIN585,Malaga,Dublin,Aer Lingus,Airbus A320
+EIN7VT,Arrecife,Dublin,Aer Lingus,Airbus A320
+EIN886,Cork,Malaga,Aer Lingus,Airbus A320
+EIN887,Malaga,Cork,Aer Lingus,Airbus A320
+EIN892,Cork,Faro,Aer Lingus,Airbus A320
+EIN893,Faro,Cork,Aer Lingus,Airbus A320
+EIN93T,Faro,Dublin,Aer Lingus,Airbus A330-300
+EJU12AL,Basel,Porto,easyJet,Airbus A320
+EJU13NK,Milan,Porto,easyJet,Airbus A321
+EJU14ZC,Berlin,Porto,easyJet,Airbus A320
+EJU16ET,Porto,Genebra,easyJet,Airbus A320
+EJU16KP,Porto,Saint Exupery,easyJet,Airbus A319
+EJU1873,Bordeaux,Porto,easyJet,Airbus A320
+EJU1876,Porto,Bordeaux,easyJet,Airbus A320
+EJU31MY,Porto,Belin,easyJet,Airbus A320
+EJU32HW,Porto,Genebra,easyJet,Airbus A320
+EJU32MP,Porto,Genebra,easyJet,Airbus A320
+EJU34TH,Luxembourg,Porto,easyJet,Airbus A320
+EJU36QM,Basel,Porto,easyJet,Airbus A320
+EJU38HY,Porto,Punta Raisi,easyJet,Airbus A320
+EJU41AE,Luxembourg,Porto,easyJet,Airbus A320
+EJU42CT,Genebra,Porto,easyJet,Airbus A320
+EJU45FP,Genebra,Porto,easyJet,Airbus A320
+EJU46UP,Genebra,Porto,easyJet,Airbus A320
+EJU4759,Nantes,Porto,easyJet,Airbus A320
+EJU49BD,Porto,Menorca,easyJet,Airbus A320
+EJU52DC,Porto,Zurich,easyJet,Airbus A320
+EJU53GQ,Zurich,Porto,easyJet,Airbus A320
+EJU57TQ,Saint Exupery,Porto,easyJet,Airbus A320
+EJU62PW,Porto,Nice,easyJet,Airbus A320
+EJU65PD,Porto,Palma de Mallorca,easyJet,Airbus A320
+EJU69XM,Paris Orly,Porto,easyJet,Airbus A320
+EJU69ZR,Nantes,Porto,easyJet,Airbus A320
+EJU71TZ,Porto,Nantes,easyJet,Airbus A320
+EJU71VU,Bordeaux,Porto,easyJet,Airbus A320
+EJU73UK,Porto,Milan,easyJet,Airbus A320
+EJU74FQ,Paris,Funchal,easyJet,Airbus A320
+EJU74YB,Porto,Nice,easyJet,Airbus A320
+EJU75PL,Faro,Bristol,easyJet,Airbus A319
+EJU76PQ,Genebra,Porto,easyJet,Airbus A320
+EJU83HV,Porto,Split,easyJet,Airbus A320
+EJU83MN,London LGW,Porto,easyJet,Airbus A320
+EJU85RP,Milan,Porto,easyJet,Airbus A320
+EJU85UD,Nice,Porto,easyJet,Airbus A320
+EJU86BE,Split,Porto,easyJet,Airbus A320
+EJU86KY,Paris Orly,easyJet,Airbus A320
+EJU86WP,Porto,Ibiza,easyJet,Airbus A320
+EJU89CE,Saint Exupery,Porto,easyJet,Airbus A319
+EJU92VK,Nice,Porto,easyJet,Airbus A320
+EJU93UF,Saint Exupery,Porto,easyJet,Airbus A320
+EJU96AV,Porto,Luxembourg,easyJet,Airbus A320
+EJU98PU,Porto,Palma de Mallorca,easyJet,Airbus A320
+ELY5463,Tel Aviv,Porto,El Al, Boeing 737-800
+ELY5464,Tel Aviv,Porto,El Al, Boeing 737-800
+ENT5DW,Varsóvia,Porto,Enter Air,Boeing 737-800
+ENT73YG,Menorca,Porto,Enter Air,Boeing 737-800
+ENT753,Porto,Oujda,Enter Air,Boeing 737-800
+ENT77MK,Porto,Menorca,Enter Air,Boeing 737-800
+ETH740,Madrid,Porto,Ethiopian Airlines,Boeing 787-9 Dreamliner
+ETH741,Porto,Madrid,Ethiopian Airlines,Boeing 787-9 Dreamliner
+ETR894,Madrid,Maiquetia,Estelar,Airbus A330
+EVE857,Madrid,San Jose,Iberojet,Airbus A350-900
+EWG19K,Porto,Hamburgo,Eurowings,Airbus A320neo
+EWG1KB,Cologne,Porto,Eurowings,Airbus A319
+EWG2WY,Dusseldorf,Funchal,Eurowings,Airbus A321neo
+EWG3KC,Estugarda,Porto,Eurowings,Airbus A320neo
+EWG58N,Porto,Estugarda,Eurowings,Airbus A320neo
+EWG607,Porto,Cologne,Eurowings,Airbus A319
+EWG6AY,Belin,Porto,Eurowings,Airbus A320
+EWG79M,Dusseldorf,Porto,Eurowings,Airbus A320
+EWG7JH,Cologne,Funchal,Eurowings,Airbus A320neo
+EXS1371,Birmingham,Porto,Jet2,Boeing 737-800
+EXS23DW,London STN,Tenerife,Jet2,Boeing 737-800
+EXS29DE,Faro,Belfast,Jet2,Boeing 737-800
+EXS2UY,Malaga,Glasgow,Jet2,Boeing 737-800
+EXS3DN,Manchester,Porto,Jet2,Boeing 737-800
+EXS41Y,Birmingham,Tenerife,Jet2,Airbus A321
+EXS42N,Birmingham,Fuerteventura,Jet2,Airbus A321
+EXS43CE,Glasgow,Malaga,Jet2,Boeing 737-800
+EXS47QN,Faro,Bristol,Jet2,Boeing 737-800
+EXS54G,Birmingham,Gran Canaria,Jet2,Boeing 737-800
+EXS55EC,Cadiz,Leeds,Jet2,Boeing 737-800
+EXS5DK,Faro,Edinburgh,Jet2,Airbus A321neo
+EXS67DY,Belfast,Malaga,Jet2,Boeing 737-800
+EXS68MJ,Edinburgh,Malaga,Jet2,Airbus A321
+EXS6CX,Manchester,Arrecife,Jet2,Airbus A321
+EXS6KA,Edinburgh,Faro,Jet2,Airbus A321neo
+EXS9GT,Faro,Glasgow,Jet2,Boeing 737-800
+EZS1295,Basel,Porto,easyJet,Airbus A320
+EZS12HL,Genebra,Porto,easyJet,Airbus A320
+EZS14LC,Porto,Genebra,easyJet,Airbus A320neo
+EZS27VL,Porto,Genebra,easyJet,Airbus A320
+EZS29ZM,Genebra,Porto,easyJet,Airbus A320neo
+EZS34AF,Porto,Genebra,easyJet,Airbus A320
+EZS69XG,Basel,Porto,easyJet,Airbus A320
+EZS82QX,Genebra,Porto,easyJet,Airbus A320
+EZS89FD,Genebra,Porto,easyJet,Airbus A320
+EZY12RW,Faro,Liverpool,easyJet,Airbus A319
+EZY2870,Lisboa,Bristol,easyJet,Airbus A320
+EZY3041,Belfast,Faro,easyJet,Airbus A319
+EZY3047,Belfast,Faro,easyJet,Airbus A320
+EZY32RD,Faro,Belfast,easyJet,Airbus A319
+EZY32TX,Faro,Bristol,easyJet,Airbus A320
+EZY34MQ,London,Porto,easyJet,Airbus A320
+EZY37EM,London LGW,Porto,easyJet,Airbus A320
+EZY46NA,Glasgow,Porto,easyJet,Airbus A320
+EZY49HA,London LGW,Tenerife,easyJet,Airbus A321
+EZY63CR,Malaga,Glasgow,easyJet,Airbus A320
+EZY71KB,Manchester,Porto,easyJet,Airbus A320
+EZY72FR,Faro,Belfast,easyJet,Airbus A319
+EZY78YE,Bristol,Porto,easyJet,Airbus A320
+EZY92QR,Faro,Glasgow,easyJet,Airbus A319
+FIN96W,Helsinki,Lisboa,Finnair,Airbus A321
+FPY289,Keflavik,Faro,PLAY,Airbus A320neo
+FPY72M,Malaga,Keflavik,PLAY,Airbus A320neo
+HAT5020,Porto,Palma de Mallorca,Air Horizont,Boeing 737-400
+HAT5021,Palma de Mallorca,Porto,Air Horizont,Boeing 737-400
+HAT5022,Porto,Brindisi,Air Horizont,Boeing 737-400
+HAT5023,Brindisi,Porto,Air Horizont,Boeing 737-400
+HAT5043,Monastir,Porto,Air Horizont,Boeing 737-400
+HAT5053,Gafsa,Porto,Air Horizont,Boeing 737-400
+IBE0032,Ezeiza,Madrid,Iberia,Airbus A350-900
+IBE0123,Madrid,Lima,Iberia,Airbus A350-900
+IBE0155,Madrid,Bogota,Iberia,Airbus A350-900
+IBE0222,San Salvador,Madrid,Iberia,Airbus A330-200
+IBE02WM,Madrid,New York,Iberia,Airbus A330-200
+IBE0303,Madrid,Mexico City,Iberia,Airbus A350-900
+IBE03DL,Madrid,Boston,Iberia,Airbus A321neo
+IBE03EE,Madrid,Washington,Iberia,Airbus A321neo
+IBE05FZ,Madrid,Porto,Iberia,Airbus A320
+IBE05MR,Porto,Madrid,Iberia,Airbus A320
+IBE26EV,Barcelona,New York,Iberia,Airbus A330-900
+JBU2260,Madrid,Boston,JetBlue,Airbus A321neo
+KLM1575,Amsterdam,Porto,KLM,Boeing 737-800
+KLM1579,Amsterdam,Lisboa,KLM,Boeing 737-800
+KLM27G,Amsterdam,Lisboa,KLM,Boeing 737-800
+KLM41U,Amsterdam,Porto,KLM,Boeing 737-800
+KLM45J,Amsterdam,Porto,KLM,Boeing 737-800
+KLM99L,Amsterdam,Porto,KLM,Embraer ERJ-190
+LBT6851,Porto,Djerba,Nouvel Air Tunisie,Airbus A320
+LGL31LP,Luxembourg,Porto,Luxair,Boeing 737 MAX 8
+LGL32PR,Porto,Luxembourg,Luxair,Boeing 737 MAX 8
+LGL32PT,Porto,Luxembourg,Luxair,Boeing 737 MAX 8
+LGL3769,Luxembourg,Porto,Luxair,Boeing 737-700
+LGL3785,Luxembourg,Porto,Luxair,Boeing 737-800
+LGL81LP,Luxembourg,Porto,Luxair,Boeing 737-800
+LPE2485,Madrid,Lima,LATAM Peru,Boeing 787-9 Dreamliner
+MBU1ST,Faro,Hamburgo,Marabu,Airbus A320neo
+NBT40H,Roma,New York,Norse Atlantic Airways,Boeing 787-9 Dreamliner
+NMA1120,Assiut,Porto,Nesma Airlines Egypt,Airbus A320
+NOZ1750,Bergen,Malaga,Norwegian Air Shuttle,Boeing 737-800
+NOZ1821,Faro,Oslo,Norwegian Air Shuttle,Boeing 737-800
+NOZ22R,Oslo,Faro,Norwegian Air Shuttle,Boeing 737-800
+NOZ8KB,Oslo,Porto,Norwegian Air Shuttle,Boeing 737 MAX 8
+NSZ2EM,Copenhagen,Porto,Norwegian Air Shuttle,Boeing 737 MAX 8
+NSZ4280,Porto,Stockholm,Norwegian Air Shuttle,Boeing 737-800
+NSZ75Z,Stockholm,Faro,Norwegian Air Shuttle,Boeing 737 MAX 8
+PVG3236,Tirana,Porto,Privilege Style,Airbus A321
+RUK519,London STN,Porto,Ryanair UK,Boeing 737-800
+RUK571,Belfast,Arrecife,Ryanair UK,Boeing 737-800
+RUK57LV,Agadir,Manchester,Ryanair UK,Boeing 737-800
+RUK861,Edinburgh,Agadir,Ryanair UK,Boeing 737-800
+RYR11LK,Malaga,Santiago de Compostela,Ryanair,Boeing 737-800
+RYR11QZ,Porto,Baden,Ryanair,Boeing 737-800
+RYR12WL,Verona,Porto,Ryanair,Boeing 737-800
+RYR130V,Barcelona,Porto,Ryanair,Boeing 737-800
+RYR132A,Sevilla,Santiago de Compostela,Ryanair,Boeing 737-800
+RYR13FG,Brussels,Porto,Ryanair,Boeing 737-800
+RYR13QE,Lisboa,Dublin,Ryanair,Boeing 737 MAX 8
+RYR14RK,Edinburgh,Lisboa,Ryanair,Boeing 737 MAX 8
+RYR1509,Luqa,Porto,Ryanair,Boeing 737 MAX 8
+RYR155N,Luxembourg,Porto,Ryanair,Boeing 737-800
+RYR158D,Faro,Edinburgh,Ryanair,Boeing 737 MAX 8
+RYR19UV,Cork,Arrecife,Ryanair,Boeing 737 MAX 8
+RYR1LK,Berlin,Porto,Ryanair,Boeing 737 MAX 8
+RYR1ZG,Faro,Porto,Ryanair,Boeing 737-800
+RYR203J,Porto,Valencia,Ryanair,Boeing 737 MAX 8
+RYR22FP,Santiago de Compostela,Sevilla,Ryanair,Boeing 737-800
+RYR22MP,Baden,Porto,Ryanair,Boeing 737-800
+RYR2364,Kaunas,London LTN,Ryanair,Boeing 737 MAX 8
+RYR2399,Leeds,Porto,Ryanair,Boeing 737-800
+RYR263Q,Porto,Luqa,Ryanair,Boeing 737 MAX 8
+RYR2645,Valencia,Porto,Ryanair,Boeing 737-800
+RYR26YT,Madrid,Porto,Ryanair,Boeing 737-800
+RYR277Q,Milan,Porto,Ryanair,Boeing 737-800
+RYR27YG,Dole,Porto,Ryanair,Boeing 737-800
+RYR28SD,Strasbourg,Porto,Ryanair,Boeing 737-800
+RYR2963,Bergamo,Porto,Ryanair,Boeing 737-800
+RYR29JF,Porto,Toulouse,Ryanair,Boeing 737-800
+RYR2AQ,Weeze,Porto,Ryanair,Boeing 737 MAX 8
+RYR2FT,Porto,Valencia,Ryanair,Boeing 737-800
+RYR2LF,Ile de Re,Porto,Ryanair,Boeing 737-800
+RYR2ME,Porto,Palma de Mallorca,Ryanair,Boeing 737-800
+RYR2NU,Porto,Bologna,Ryanair,Boeing 737-800
+RYR2SM,Dublin,Agadir,Ryanair,Boeing 737-800
+RYR30LM,Marseille,Porto,Ryanair,Boeing 737-800
+RYR31PG,Manchester,Lisboa,Ryanair,Boeing 737 MAX 8
+RYR3252,Porto,Trapani,Ryanair,Boeing 737-800
+RYR3253,Trapani,Porto,Ryanair,Boeing 737-800
+RYR3262,Sevilla,Cork,Ryanair,Boeing 737 MAX 8
+RYR32JU,Cardiff,Faro,Ryanair,Boeing 737-800
+RYR33UV,Porto,Barcelona,Ryanair,Boeing 737-800
+RYR340L,Bergamo,Porto,Ryanair,Boeing 737-800
+RYR357Y,Bristol,Porto,Ryanair,Boeing 737-800
+RYR377Z,Dublin,Faro,Ryanair,Boeing 737 MAX 8
+RYR38VZ,Faro,Dublin,Ryanair,Boeing 737 MAX 8
+RYR39FL,Cork,Faro,Ryanair,Boeing 737 MAX 8
+RYR3GT,Edinburgh,Porto,Ryanair,Boeing 737 MAX 8
+RYR3ME,Beauvais,Porto,Ryanair,Boeing 737-800
+RYR3WK,Porto,Dole,Ryanair,Boeing 737-800
+RYR3WL,Porto,Alicante,Ryanair,Boeing 737-800
+RYR433N,Marseille,Porto,Ryanair,Boeing 737 MAX 8
+RYR4423,Wroclaw,Porto,Ryanair,Boeing 737 MAX 8
+RYR45HT,Faro,Cork,Ryanair,Boeing 737 MAX 8
+RYR47BZ,Shannon,Tenerife,Ryanair,Boeing 737 MAX 8
+RYR4AK,London STN,Porto,Ryanair,Boeing 737-800
+RYR4KE,London STN,Porto,Ryanair,Boeing 737-800
+RYR4QQ,Newcastle,Gran Canaria,Ryanair,Boeing 737-800
+RYR4ZF,Dublin,Faro,Ryanair,Boeing 737-800
+RYR5256,Porto,Brive-la-gaillarde,Ryanair,Boeing 737 MAX 8
+RYR52XX,Memmingen,Porto,Ryanair,Boeing 737 MAX 8
+RYR56ZZ,Dublin,Porto,Ryanair,Boeing 737-800
+RYR57XQ,Faro,Dublin,Ryanair,Boeing 737 MAX 8
+RYR58FM,Shannon,Arrecife,Ryanair,Boeing 737 MAX 8
+RYR59XK,Cologne,Porto,Ryanair,Boeing 737 MAX 8
+RYR5ML,Roma,Porto,Ryanair,Boeing 737-800
+RYR5PW,Manchester,Tenerife,Ryanair,Boeing 737 MAX 8
+RYR5UX,Edinburgh,Gran Canaria,Ryanair,Boeing 737 MAX 8
+RYR62JJ,Faro,Shannon,Ryanair,Boeing 737 MAX 8
+RYR63CT,Shannon,Fuerteventura,Ryanair,Boeing 737 MAX 8
+RYR63HF,Dublin,Arrecife,Ryanair,Boeing 737 MAX 8
+RYR63NC,Porto,Cagliari,Ryanair,Boeing 737 MAX 8
+RYR63XK,Faro,Manchester,Ryanair,Boeing 737-800
+RYR64AW,Madrid,Porto,Ryanair,Boeing 737-800
+RYR64VP,Porto,Barcelona,Ryanair,Boeing 737-800
+RYR66DU,Charleroi,Porto,Ryanair,Boeing 737 MAX 8
+RYR66JB,Manchester,Porto,Ryanair,Boeing 737-800
+RYR67RF,Cork,Faro,Ryanair,Boeing 737-800
+RYR6924,Fuerteventura,Manchester,Ryanair,Boeing 737-800
+RYR6FX,Castellon de la Plana,Porto,Ryanair,Boeing 737 MAX 8
+RYR7052,Luqa,Tel Aviv,Ryanair,Boeing 737-800
+RYR709F,Valencia,Porto,Ryanair,Boeing 737 MAX 8
+RYR7148,Kirchberg,London STN,Ryanair,Boeing 737-800
+RYR7243,Luqa,Dublin,Ryanair,Boeing 737-800
+RYR741E,Charleroi,Porto,Ryanair,Boeing 737-800
+RYR75DE,Porto,Marseille,Ryanair,Boeing 737-800
+RYR7636,London STN,Nuremberg,Ryanair,Boeing 737-800
+RYR76TG,Dublin,Faro,Ryanair,Boeing 737-800
+RYR7716,Carcassonne,Porto,Ryanair,Boeing 737-800
+RYR77KW,Porto,Marseille,Ryanair,Boeing 737 MAX 8
+RYR792F,Porto,Sevilla,Ryanair,Boeing 737-800
+RYR7935,Nuremberg,Porto,Ryanair,Boeing 737-800
+RYR79AB,Tours,Porto,Ryanair,Boeing 737-800
+RYR79KQ,Toulouse,Porto,Ryanair,Boeing 737-800
+RYR7AH,Dublin,Faro,Ryanair,Boeing 737 MAX 8
+RYR7CJ,Santiago de Compostela,Malaga,Ryanair,Boeing 737 MAX 8
+RYR7EX,Beauvais,Porto,Ryanair,Boeing 737-800
+RYR7FP,Knock,Tenerife,Ryanair,Boeing 737 MAX 8
+RYR802R,Dublin,Lisboa,Ryanair,Boeing 737 MAX 8
+RYR809N,Dublin,Lisboa,Ryanair,Boeing 737-800
+RYR8271,Salzburg,London STN,Ryanair,Boeing 737-800
+RYR82CG,Edinburgh,Fuerteventura,Ryanair,Boeing 737 MAX 8
+RYR82GJ,Barcelona,Porto,Ryanair,Boeing 737-800
+RYR84GX,Gran Canaria,London STN,Ryanair,Boeing 737 MAX 8
+RYR85HJ,Arrecife,Dublin,Ryanair,Boeing 737 MAX 8
+RYR86LP,Glasgow,Arrecife,Ryanair,Boeing 737 MAX 8
+RYR87LF,Birmingham,Porto,Ryanair,Boeing 737 MAX 8
+RYR88AP,Bologna,Porto,Ryanair,Boeing 737-800
+RYR88KX,Porto,Clermont-Ferrand,Ryanair,Boeing 737 MAX 8
+RYR88UR,Porto,Luxembourg,Ryanair,Boeing 737-800
+RYR88VH,Faro,London STN,Ryanair,Boeing 737-800
+RYR89WR,Porto,Roma,Ryanair,Boeing 737-800
+RYR8JP,Stockholm,Porto,Ryanair,Boeing 737-800
+RYR8NU,Porto,Madrid,Ryanair,Boeing 737-800
+RYR90LE,Eindhoven,Porto,Ryanair,Boeing 737 MAX 8
+RYR90TB,Porto,Turin,Ryanair,Boeing 737-800
+RYR911M,Balice,Porto,Ryanair,Boeing 737 MAX 8
+RYR9299,Aqaba,Roma,Ryanair,Boeing 737-800
+RYR93QH,Dublin,Faro,Ryanair,Boeing 737 MAX 8
+RYR94TK,Faro,Cork,Ryanair,Boeing 737-800
+RYR94YE,Barcelona,Porto,Ryanair,Boeing 737-800
+RYR9518,Malaga,Santiago de Compostela,Ryanair,Boeing 737 MAX 8
+RYR966H,Alicante,Porto,Ryanair,Boeing 737-800
+RYR96NC,Aberdeen,Faro,Ryanair,Boeing 737 MAX 8
+RYR96XD,Turin,Porto,Ryanair,Boeing 737-800
+RYR97EN,London STN,Porto,Ryanair,Boeing 737-800
+RYR9HP,Faro,Liverpool,Ryanair,Boeing 737 MAX 8
+RYR9HY,Porto,Carcassonne,Ryanair,Boeing 737-800
+RYR9L,Faro,East Midlands,Ryanair,Boeing 737-800
+RYR9WV,Edinburgh,Arrecife,Ryanair,Boeing 737 MAX 8
+RZO228,Boston,Ponta Delgada,Sata Internacional,Airbus A321neo
+RZO504,Ponta Delgada,Bilbao,Sata Internacional,Airbus A321neo
+RZO507,Barcelona,Ponta Delgada,Sata Internacional,Airbus A320neo
+SAS2773,Copenhagen,Porto,SAS,Airbus A320neo
+SWR2075,Porto,Genebra,Swiss,Airbus A220-300
+SWR20D,Porto,Zurich,Swiss,Airbus A321neo
+SWR5WB,Zurich,Porto,Swiss,Airbus A220-300
+SWR82L,Zurich,Porto,Swiss,Airbus A321neo
+SWR92V,Genebra,Porto,Swiss,Airbus A220-300
+SWR9CK,Zurich,Porto,Swiss,Airbus A321neo
+TAM8085,London LHR,São Paulo,LATAM Brasil,Boeing 777-300
+TAP11EG,Manchester,Lisboa,TAP Air Portugal,Airbus A320
+TAP120Y,Lisboa,Varsóvia,TAP Air Portugal,Airbus A321neo
+TAP1325,Dublin,Lisboa,TAP Air Portugal,Embraer ERJ-190
+TAP1329,London LGW,Porto,TAP Air Portugal,Airbus A320
+TAP1932,Lisboa,Porto,TAP Air Portugal,Airbus A320
+TAP31TY,London LGW,Porto,TAP Air Portugal,Embraer ERJ-190
+TAP453,Orly,Porto,TAP Air Portugal,Embraer ERJ-190
+TAP454,Porto,Orly,TAP Air Portugal,Airbus A320
+TAP455,Orly,Porto,TAP Air Portugal,Airbus A320
+TAP457,Orly,Porto,TAP Air Portugal,Airbus A320
+TAP45ED,Berlin,Lisboa,TAP Air Portugal,Airbus A321neo
+TAP535,Berlin,Lisboa,TAP Air Portugal,Airbus A320neo
+TAP53KT,Copenhagen,Lisboa,TAP Air Portugal,Airbus A321
+TAP543W,Dusseldorf,Lisboa,TAP Air Portugal,Embraer ERJ-190
+TAP58Y,Lisboa,London LHR,TAP Air Portugal,Airbus A321neo
+TAP63V,London LHR,Lisboa,TAP Air Portugal,Airbus A321neo
+TAP687,Luxembourg,Porto,TAP Air Portugal,Airbus A320
+TAP6AM,Amsterdam,Lisboa,TAP Air Portugal,Airbus A320neo
+TAP757P,Copenhagen,Lisboa,TAP Air Portugal,Airbus A320
+TAP763,Oslo,Lisboa,TAP Air Portugal,Airbus A320
+TAP781,Stockholm,Lisboa,TAP Air Portugal,Airbus A321
+TAP921,Zurich,Porto,TAP Air Portugal,Airbus A320
+TAP939,Genebra,Porto,TAP Air Portugal,Embraer ERJ-190
+TAY2PO,Paris,Porto,ASL Airlines Belgium,Boeing 737-800
+THY2QL,Istanbul,Porto,Turkish Airlines,Airbus A321neo
+THY2TP,Istanbul,Porto,Turkish Airlines,Airbus A321neo
+THY2UE,Porto,Istanbul,Turkish Airlines,Airbus A321neo
+THY77J,Istanbul,Miami,Turkish Airlines,Boeing 777-300ER
+THY801,Istanbul,Bogota,Turkish Airlines,Airbus A350-900
+THY903,Istanbul,Panama City,Turkish Airlines,Airbus A350-900
+TOM2TN,Manchester,Tenerife,Turkish Airlines,Boeing 737-800
+TOM62Y,London LGW,Tenerife,Turkish Airlines,Boeing 787-8
+TOM6KA,London,Gran Canaria,Turkish Airlines,Boeing 737-800
+TRA32P,Eindhoven,Lisboa,Transavia Airlines,Boeing 737-800
+TRA39T,Amsterdam,Porto,Transavia Airlines,Airbus A321neo
+TRA6005,Amsterdam,Porto,Transavia Airlines,Airbus A321neo
+TRA60P,Amsterdam,Porto,Transavia Airlines,Boeing 737-800
+TRA78T,Amsterdam,Porto,Transavia Airlines,Boeing 737-800
+TSC385,Madrid,Montreal,Air Transat,Airbus A321neo
+TVF10WN,Nantes,Porto,Transavia France,Boeing 737-800
+TVF12EP,Brest,Porto,Transavia France,Boeing 737-800
+TVF16NR,Orly,Porto,Transavia France,Boeing 737-800
+TVF20BF,Orly,Porto,Transavia France,Boeing 737-800
+TVF21TY,Orly,Porto,Transavia France,Boeing 737-800
+TVF23WD,Saint Exupery,Porto,Transavia France,Boeing 737-800
+TVF52RF,Orly,Porto,Transavia France,Boeing 737-800
+TVF55BQ,Orly,Porto,Transavia France,Boeing 737-800
+TVF56FP,Orly,Porto,Transavia France,Boeing 737-800
+TVF7618,Orly,Porto,Transavia France,Boeing 737-800
+TVF84GQ,Orly,Porto,Transavia France,Boeing 737-800
+TVF86NP,Porto,Orly,Transavia France,Boeing 737-800
+TVF87LG,Porto,Saint Exupery,Transavia France,Boeing 737-800
+TVF90KM,Porto,Orly,Transavia France,Boeing 737-800
+TVF91SE,Orly,Porto,Transavia France,Boeing 737-800
+TVF96UY,Orly,Porto,Transavia France,Boeing 737-800
+VLG1JJ,Porto,Barcelona,Vueling Airlines,Airbus A321
+VLG2652,Malaga,Santiago de Compostela,Vueling Airlines,Airbus A320
+VLG2653,Santiago de Compostela,Malaga,Vueling Airlines,Airbus A320
+VLG2655,Malaga,Santiago de Compostela,Vueling Airlines,Airbus A320
+VLG2656,Santiago de Compostela,Malaga,Vueling Airlines,Airbus A320
+VLG2HL,Porto,Barcelona,Vueling Airlines,Airbus A321
+VLG30NH,Orly,Porto,Vueling Airlines,Airbus A320
+VLG2HL,Porto,Barcelona,Vueling Airlines,Airbus A321
+VLG33BZ,Porto,,Vueling Airlines,Airbus A321
+VLG362W,Barcelona,Porto,Vueling Airlines,Airbus A321
+VLG4CF,Porto,Bilbao,Vueling Airlines,Airbus A320
+VLG4TF,Santiago de Compostela,Sevilla,Vueling Airlines,Airbus A320
+VLG6366,Sevilla,Santiago de Compostela,Vueling Airlines,Airbus A320
+VLG6370,Sevilla,Santiago de Compostela,Vueling Airlines,Airbus A320
+VLG66JR,Santiago de Compostela,Sevilla,Vueling Airlines,Airbus A320
+VLG6965,Porto,Ibiza,Vueling Airlines,Airbus A320
+VLG6UW,Barcelona,Porto,Vueling Airlines,Airbus A321
+VLG74YM,Bilbao,Porto,Vueling Airlines,Airbus A320
+VLG79EM,Porto,Barcelona,Vueling Airlines,Airbus A321
+VLG89FR,Santiago de Compostela,Malaga,Vueling Airlines,Airbus A320
+VLG8UJ,Barcelona,Porto,Vueling Airlines,Airbus A321
+VLG92ZK,Santiago de Compostela,Sevilla,Vueling Airlines,Airbus A320
+VLG9ZP,Malaga,Santiago de Compostela,Vueling Airlines,Airbus A320
+VOE2798,Rodez,Porto,Volotea,Airbus A319
+VOE2HB,Malaga,La Coruna,Volotea,Airbus A320
+VOE92HF,Nantes,Porto,Volotea,Airbus A319
+WMT3NK,Porto,Roma,Wizz Air Malta,Airbus A321neo
+WMT466,Roma,Porto,Wizz Air Malta,Airbus A321neo
+EZY8527,London LGW,Porto,easyJet,Airbus A320
+EXS6FV,Malaga,Edinburgh,Jet2,Boeing 737-800
+VLG665A,Ibiza,Porto,Vueling Airlines,Airbus A320
+RYR9202,Liverpool,Porto,Ryanair,Boeing 737-800
+IBE0126,Lima,Madrid,Iberia,Airbus A350-900
+RUK9313,Belfast,Porto,Ryanair,Boeing 737-800
+TVF93DC,Orly,Funchal,Transavia France,Boeing 737-800
+QTR62G,Doha,Miami,Qatar Airways,Airbus A350-1000
+RYR29GN,Faro,Manchester,Ryanair,Boeing 737-800
+RYR7456,Farranfore,Faro,Ryanair,Boeing 737-800
+EJU52FM,Porto,Saint Exupery,easyJet,Airbus A320
+LGL3799,Luxembourg,Porto,Luxair,Boeing 737 MAX 8
+HAT5061,Olbia,Porto,Air Horizont,Boeing 737-400
+ANE8263,Porto,Palma de Mallorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+ANE8262,Menorca,Porto,Air Nostrum,Bombardier Regional Jet CRJ-1000
+EJU43VB,Punta Raisi,Porto,easyJet,Airbus A320
+BEL8HR,Porto,Brussels,Brussels Airlines,Airbus A320
+TVF84KD,Porto,Orly,Transavia France,Boeing 737-800
+EVE805,Madrid,Comayagua,Iberojet,Airbus A350-900
+BTI74L,RIGA,Porto,Carpatair,Airbus A320
+TVF84UL,Nantes,Funchal,Transavia France,Boeing 737-800
+BEL4DV,Brussels,Funchal,Brussels Airlines,Airbus A320neo
+RYR3861,Porto,Verona,Ryanair,Boeing 737-800
+TOM2HW,Bristol,Fuerteventura,TUI Airways,Boeing 737 MAX 8
+NSZ4279,Stockholm,Porto,Norwegian Air Sweden, Boeing 737-800
+RYR4FN,Modlin,Porto,Ryanair,Boeing 737-800
+TAP1312,Lisboa,Manchester,TAP Air Portugal,Airbus A319
+EZS73NL,Porto,Genebra,easyJet,Airbus A320neo
+VOE2799,Porto,Rodez,Volotea,Airbus A319
+EJU84CG,Faro,London LGW,easyJet,Airbus A319
+EJU85BV,Porto,Saint Exupery,easyJet,Airbus A319
+RYR69KD,Porto,Bergamo,Ryanair,Boeing 737-800
+EZY49GE,Faro,London LGW,easyJet,Airbus A319
+SAS2903,Stockholm,Lisboa,SAS,Airbus A320neo
+EXS89H,Bournemouth,Funchal,Jet2,Boeing 737-800
+EXS3FR,Malaga,Belfast,Jet2,Boeing 737-800
+EVE858,San Jose,Madrid,Iberojet,Airbus A350-900
+EZY12QC,Faro,London LGW,easyJet,Airbus A319
+EJU74BC,Porto,Nantes,easyJet,Airbus A320
+RYR4VH,Faro,London STN,Ryanair,Boeing 737-800
+RYR28BU,Faro,Aberdeen,Ryanair,Boeing 737-800
+EJU62RH,Porto,Genebra,easyJet,Airbus A320
+RYR38BB,Porto,Budapest,Ryanair,Boeing 737-800
+RYR7TU,Edinburgh,Faro,Ryanair,Boeing 737 MAX 8
+EJU73EU,Faro,Manchester,easyJet,Airbus A320
+ANE17NR,Madrid,Santander,Air Nostrum,Bombardier Regional Jet CRJ-1000
+TAP1335,London LGW,Lisboa,Portugalia,Embraer ERJ-190
+RUK677D,Marrakech,Manchester,Ryanair UK,Boeing 737-800
+EZY26XM,Belfast,Faro,easyJet,Airbus A320
+ENT73AB,Menorca,Porto,Enter Air,Boeing 737-800
+EJU41XU,Porto,Naples,easyJet,Airbus A320
+RYR55RL,Chalons,Porto,Ryanair,Boeing 737-800
+EIN888,Cork,Malaga,Aer Lingus,Airbus A320
+EIN498,Dublin,Faro,Aer Lingus,Airbus A320
+ENT774,Monastir,Porto,Enter Air,Boeing 737-800
+RYR7801,Palma de Mallorca,Porto,Ryanair,Boeing 737-800
+LBT6131,Porto,Djerba,Nouvel Air Tunisie,Airbus A320
+EJU89KG,Orly,Porto,easyJet,Airbus A320
+EJU73QG,Saint Exupery,Porto,easyJet,Airbus A320
+RYR7676,Maastricht,Porto,Ryanair,Boeing 737 MAX 8
+SWR2068,Zurich,Porto,Swiss,Airbus A321neo
+SWR2077,Porto,Genebra,Swiss,Airbus A220-300
+VOE2807,Tenerife,Nantes,Volotea,Airbus A319
+TVF42JG,Tenerife,Orly,Transavia France,Boeing 737-800
+ANE8271,Porto,Menorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+RYR91PX,Porto,Treviso,Ryanair,Boeing 737 MAX 8
+TOM1JE,Cardiff,Arrecife,TUI Airways,Boeing 737-800
+AEA1144,Porto,Madrid,Air Europa,Boeing 737-800
+TFL5496,Dublin,Arrecife,TUI Airlines,Boeing 737-800
+TOM6AX,Manchester,Faro,TUI Airlines,Boeing 737 MAX 8
+EXS3873,London LTN,Tenerife,Jet2,Airbus A321
+EXS71DP,Bristol,Tenerife,Jet2,Boeing 737-800
+TAP443,Orly,Lisboa,TAP Air Portugal,Airbus A320
+EZY24HZ,Bristol,Funchal,easyJet,Airbus A320
+EZY38NU,London LGW,Tenerife,easyJet,Airbus A320
+ASL14D,Belgrade,Porto,Air Serbia,Airbus A319
+ACA70,Montreal,Algiers,Air Canada,Airbus A330-300
+RYR1WE,Arles,Porto,Ryanair,Boeing 737 MAX 8
+UAL50,Madrid,Newark,United,Boeing 767-400
+RYR46SW,Cagliari,Porto,Ryanair,Boeing 737 MAX 8
+TOM1BN,Malaga,Glasgow,TUI Airlines,Boeing 737-800
+IBE03GG,Madrid,Chicago,Iberia,Airbus A330
+HAT5041,Menorca,Porto,Air Horizont,Boeing 737-400
+TAP13CT,Lisboa,London LGW,Portugalia,Embraer ERJ-190
+RUK6KM,Faro,Manchester,Ryanair,Boeing 737-800
+RYR5GX,Bari,Porto,Ryanair,Boeing 737 MAX 8
+EXS6GY,East Midlands,Tenerife,Jet2,Boeing 737-800
+EXS33RY,Manchester,Tenerife,Jet2,Boeing 737-800
+TFL6NC,Dublin,Arrecife,TUI Airlines,Boeing 737-800
+EXS5TG,Bristol,Tenerife,Jet2,Boeing 737-800
+EWG4Z,Porto,Berlin,Eurowings,Airbus A320
+TOM25D,Belfast,Arrecife,TUI Airlines,Boeing 737-800
+EJU38ZX,Berlin,Funchal,easyJet,Airbus A320
+EJU58DY,Porto,Saint Exupery,easyJet,Airbus A320
+EIN82T,Dublin,Lisboa,Aer Lingus,Airbus A320
+TOM10N,Faro,Birmingham,TUI Airlines,Boeing 737 MAX 8
+AEA194,Bogota,Madrid,Air Europa,Boeing 787-8
+RYR55,Charleroi,Budapest,Ryanair,Boeing 737-800
+EZY6462,Faro,London LGW,easyJet,Airbus A320
+AEA198,Medellin,Madrid,Air Europa,Boeing 787-8
+EXS963Q,Faro,Liverpool,Jet2,Boeing 737-800
+EZY6510,Faro,London LGW,easyJet,Airbus A320
+DLH03T,Porto,Frankfurt,Lufthansa,Airbus A321
+CCA866,Havana,Madrid,Air China,Boeing 787-9 Dreamliner
+RYR57BW,Porto,Pisa,Ryanair,Boeing 737-800
+EJU58DF,London LGW,Lisboa,easyJet,Airbus A320
+EZY46BL,Belfast,Faro,easyJet,Airbus A319
+WFL2501,Madrid,Cancun,W2FLY,Airbus A350-900
+TVF73AW,Lisboa,Orly,Transavia France,Boeing 737-800
+ANE8130,Porto,Palma de Mallorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+RYR89UY,Copenhagen,Porto,Ryanair,Boeing 737 MAX 8
+TRA5746,Casablanca,Amsterdam,Transavia Airlines,Boeing 737-800
+SVA020,New York,Jeddah,Saudia,Boeing 777-300
+KLM701,Ezeiza,Santiago,KLM,Boeing 787-9 Dreamliner
+ETH501,Washington,Addis Ababa,Ethiopian Airlines,Airbus A350-1000
+RYR9CM,Faro,Dublin,Ryanair,Boeing 737 MAX 8
+MSR986,New York,Cairo,Egypt Air,Boeing 777-300
+TAR203,Montreal,Tunis,Tunis Air,Airbus A330-200
+AAL748,Charlotte,Madrid,America Airlines,Boeing 777-200
+AVA180,Bogota,Barcelona,Avianca,Boeing 787-8
+RYR9595,Belfast,Palma de Mallorca,Ryanair,Boeing 737 MAX 8
+RYR6BU,Sevilla,Santiago de Compostela,Ryanair,Boeing 737-800
+TVF22KP,Porto,Orly,Transavia France,Boeing 737-800
+EJU62WY,Lisboa,Manchester,easyJet,Airbus A321
+EZY27KC,London LTN,Lisboa,easyJet,Airbus A319
+TAP532B,Lisboa,Berlin,TAP Air Portugal,Airbus A321neo
+BAW58TL,London LHR,Lisboa,British Airways,Airbus A319
+RYR491B,Kirchberg,Porto,Ryanair,Boeing 737-800
+TVF7614,Orly,Porto,Transavia France,Boeing 737-800
+EZY68UC,Bristol,Lisboa,easyJet,Airbus A320
+EWG6VJ,Hamburg,Lisboa,Eurowings,Airbus A321neo
+EJU95ZL,Ibiza,Porto,easyJet,Airbus A320
+BAW5LI,London LHR,Lisboa,British Airways,Airbus A320
+RYR7033,Faro,Dublin,Ryanair,Boeing 737-800
+RYR13EM,Birmingham,Tenerife,Ryanair,Boeing 737 MAX 8
+NOZ6GA,Oslo,Lisboa,Norwegian Air Shuttle,Boeing 737-800
+TOM30W,Manchester,Arrecife,TUI Airways,Boeing 737-800
+RYR59UU,Liverpool,Tenerife,Ryanair,Boeing 737 MAX 8
+RYR23MM,Dublin,Marrakech,Ryanair,Boeing 737-800
+TOM2LJ,Birmingham,Arrecife,TUI Airways,Boeing 737-800
+EXS17SE,Faro,West Yorkshire,Jet2,Boeing 737-300
+IBE05CB,Porto,Madrid,Iberia,Airbus A319
+RYR95ZQ,Santiago de Compostela,Malaga,Ryanair,Boeing 737-800
+RYR21KP,Knock,Faro,Ryanair,Boeing 737 MAX 8
+EJU7383,Lisboa,Paris,easyJet,Airbus A320
+ANE8111,Menorca,Porto,Air Nostrum,Bombardier Regional Jet CRJ-1000
+RYR28WZ,Malaga,Dublin,Ryanair,Boeing 737-800
+ANE8114,Porto,Palma de Mallorca,Air Nostrum,Bombardier Regional Jet CRJ-1000
+EJU63QY,Porto,Orly,easyJet,Airbus A320
+TAP72LP,Lisboa,Frankfurt,TAP Air Portugal,Airbus A319
+LBT6450,Djerba,Porto,Nouvel Air Tunisie,Airbus A320
+MBU3GF,Nuremberg,Funchal,Marabu,Airbus A320neo
+TOM800,Newcastle,Sal,TUI Airways,Boeing 737 MAX 8
+LBT6736,Monastir,Porto,Nouvel Air Tunisie,Airbus A320
+RUK54RD,Edinburgh,Marrakech,Ryanair UK,Boeing 737-800
+RYR13HR,Faro,Newcastle,Ryanair,Boeing 737-800
+TAP5RP,Orly,Porto,TAP Air Portugal,Airbus A320
+ANE8113,Palma de Mallorca,Porto,Air Nostrum,Bombardier Regional Jet CRJ-1000
+EXS3BU,Manchester,Tenerife,Jet2,Airbus A330-200
+IBE0127,Madrid,Lima,Iberia,Airbus A350-900
+EJU82BZ,Faro,London LGW,easyJet,Airbus A320
+IBE0258,Panama City,Madrid,Iberia,Airbus A330-200
+BEL1611,Brussels,Porto,Brussels Airlines,Airbus A320
+ANE8125,Porto,Oujda,Air Nostrum,Bombardier Regional Jet CRJ-1000
+TOM3TA,Birmingham,Tenerife,TUI Airways,Boeing 737-800
+IBE03FT,Madrid,San Juan,Iberia,Airbus A330-200
+TVF84BP,Lisboa,Orly,Transavia France,Boeing 737-800
+RYR73MU,Clermont-Ferrand,Porto,Ryanair,Boeing 737-800
+EJU13BL,London LGW,Lisboa,easyJet,Airbus A320
+BAW528,London LHR,Lisboa,British Airways,Airbus A320
